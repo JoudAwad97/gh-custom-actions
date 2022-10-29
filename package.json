@@ -28,5 +28,18 @@
     "vite": "^3.0.7",
     "vite-plugin-eslint": "^1.8.1",
     "vitest": "^0.22.1"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoudAwad97/gh-custom-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoudAwad97/gh-custom-actions/issues"
+  },
+  "homepage": "https://github.com/JoudAwad97/gh-custom-actions#readme",
+  "description": ""
 }
